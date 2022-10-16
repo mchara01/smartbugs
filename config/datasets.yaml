@@ -24,3 +24,7 @@ solidiFI:
 
 # Retrospective datasets
 test_sample: ../retrospective-sc-analysis/data/test_sample
+source_dataset_eth: ../retrospective-sc-analysis/data/sources/eth/sol/
+source_dataset_bsc: ../retrospective-sc-analysis/data/sources/bsc/sol/
+bytecode_dataset_eth: ../retrospective-sc-analysis/data/bytecodes/eth/
+bytecode_dataset_bsc: .../retrospective-sc-analysis/data/bytecodes/bsc/

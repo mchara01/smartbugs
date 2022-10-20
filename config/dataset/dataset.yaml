@@ -25,4 +25,4 @@ solidiFI:
 # Bytecode
 bytecode: dataset/bytecode
 eth_bc: ../retrospective-sc-analysis/data/bytecodes/eth
-bsc_bsc: ../retrospective-sc-analysis/data/bytecodes/bsc
+bsc_bc: ../retrospective-sc-analysis/data/bytecodes/bsc
